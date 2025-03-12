@@ -1,6 +1,7 @@
 # **Data Structures in Python: OOP and SOLID**
 
 This repository contains implementations of data structures in Python, such as **Stack**, following **Object-Oriented Programming (OOP)** and **SOLID** principles to ensure the code is clean, modular, reusable, and scalable.
+
 PS.: This repository is for study only, don't worry about overengineering
 
 ## **Main Objectives**
